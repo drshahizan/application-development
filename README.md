@@ -1,8 +1,8 @@
-<a href="https://github.com/drshahizan/application-development/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/project-management" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/application-development/network/members"><img src="https://img.shields.io/github/forks/drshahizan/project-management" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/application-development/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/project-management" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/application-development"><img src="https://img.shields.io/github/issues/drshahizan/project-management" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/application-development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/project-management?color=2b9348"></a>
+<a href="https://github.com/drshahizan/application-development/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/application-development" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/application-development/network/members"><img src="https://img.shields.io/github/forks/drshahizan/application-development" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/application-development/pulls"><img src="https://img.shields.io/github/issues-pr/drshahizan/application-development" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/application-development"><img src="https://img.shields.io/github/issues/drshahizan/application-development" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/application-development/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/application-development?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Application Development
