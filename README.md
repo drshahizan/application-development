@@ -8,7 +8,9 @@
 # Application Development
 
 ## Course Synopsis
-This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure. The topics include: overview of cloud computing, cloud systems, parallel processing in the cloud, distributed storage systems, virtualization, security in the cloud, and multicore operating systems. Students will study state-of-the-art solutions for cloud computing developed by Google, Amazon, Microsoft, Yahoo, VMWare, etc. Students will also apply what they learn in one programming assignment and one project executed over Amazon Web Services.
+Application Development is a comprehensive service-learning course which requires students to solve a real community problem by developing an application. Students will learn how to
+practise design thinking, adopting Agile development methodology. This involves an iterative process starting from community engagement, requirement elicitation and analysis, design
+solution, application construction and iterative verification and validation process. Students are required to do reflection on the outcome of the project. In this course students should be able to develop their soft skills such as leadership, team collaboration, documentation 
 
 ## 🔥 Important Things
 
